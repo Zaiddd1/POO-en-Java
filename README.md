@@ -25,14 +25,6 @@ Cada archivo se implementa como un ejemplo **ejecutable** que ilustra un concept
 cada grupo de clases se incluye un archivo `salida-esperada.txt` con la salida por pantalla que
 produce el programa.
 
-## 👥 Integrantes
-
-| Código | Apellidos y Nombres | Participación |
-|---|---|---|
-| 2025001659 | Del Carpio Aspilcueta, Farid Andree | 100 % |
-| 2025000961 | Figueroa Landeo, Walter | 100 % |
-| 2025002309 | Medina Llanquecha, Cesar Manuel | 100 % |
-
 ---
 
 ## 🗂️ Estructura del repositorio
