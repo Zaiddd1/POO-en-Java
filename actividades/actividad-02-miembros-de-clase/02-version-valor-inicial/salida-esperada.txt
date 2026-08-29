@@ -1,0 +1,51 @@
+======================================
+       PRUEBA DE LA CLASE CONTADOR
+======================================
+
+--- ESTADO INICIAL ---
+Acumulador inicial: 0
+
+--- CREACIÓN DE c1 ---
+Valor de c1: 10
+Acumulador: 10
+
+--- CREACIÓN DE c2 ---
+Valor de c2: 5
+Acumulador: 15
+
+--- INCREMENTO DE c1 ---
+Valor de c1: 11
+Valor de c2: 5
+Acumulador: 16
+
+--- DOS INCREMENTOS DE c2 ---
+Valor de c1: 11
+Valor de c2: 7
+Acumulador: 18
+
+--- CREACIÓN DE c3 ---
+Valor de c3: 20
+Acumulador: 38
+
+--- TRES INCREMENTOS DE c3 ---
+Valor de c3: 23
+Acumulador: 41
+
+--- VALORES FINALES ---
+c1 = 11
+c2 = 7
+c3 = 23
+Acumulador final = 41
+
+--- CONSTANTE ---
+VALOR_INICIAL = 10
+
+--- VERIFICACIÓN ---
+c1 funciona correctamente.
+c2 funciona correctamente.
+c3 funciona correctamente.
+El acumulador funciona correctamente.
+
+======================================
+          FIN DE LA PRUEBA
+======================================

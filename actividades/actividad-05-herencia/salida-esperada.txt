@@ -1,0 +1,14 @@
+--- DATOS INICIALES ---
+CuentaAhorro: numero=2001, saldo=1000.0, tasaInteres=5.0%
+CuentaCorriente: numero=3001, saldo=500.0, limiteSobregiro=300.0
+
+--- DESPUES DEL INTERES ---
+CuentaAhorro: numero=2001, saldo=1050.0, tasaInteres=5.0%
+
+--- INTENTOS DE RETIRO ---
+Retiro cuenta ahorro (2000.0): false
+Retiro cuenta corriente (700.0): true
+
+--- SALDOS FINALES ---
+CuentaAhorro: numero=2001, saldo=1050.0, tasaInteres=5.0%
+CuentaCorriente: numero=3001, saldo=-200.0, limiteSobregiro=300.0

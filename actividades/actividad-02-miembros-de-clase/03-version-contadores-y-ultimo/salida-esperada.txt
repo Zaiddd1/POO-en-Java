@@ -1,0 +1,33 @@
+--- ESTADO INICIAL ---
+Número de contadores: 0
+Último contador: 0
+Acumulador: 0
+
+--- DESPUÉS DE CREAR c1 ---
+Valor de c1: 10
+Número de contadores: 1
+Último contador: 10
+Acumulador: 10
+
+--- DESPUÉS DE CREAR c2 ---
+Valor de c2: 5
+Número de contadores: 2
+Último contador: 5
+Acumulador: 15
+
+--- DESPUÉS DE CREAR c3 ---
+Valor de c3: 20
+Número de contadores: 3
+Último contador: 20
+Acumulador: 35
+
+--- DESPUÉS DE INCREMENTAR c1 Y c2 ---
+Valor de c1: 11
+Valor de c2: 6
+Valor de c3: 20
+Número de contadores: 3
+Último contador: 20
+Acumulador: 37
+
+--- CONSTANTE ---
+VALOR_INICIAL: 10

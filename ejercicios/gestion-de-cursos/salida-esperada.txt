@@ -1,0 +1,14 @@
+--- DATOS DEL CURSO ---
+Curso: LP3 - Lenguajes de Programacion III, profesor=Ana Torres, inscritos=2
+
+--- PERSONAS INVOLUCRADAS ---
+Profesor: id=1, nombre=Ana Torres
+Estudiante: id=101, nombre=Luis Mamani
+Estudiante: id=102, nombre=Rosa Quispe
+
+--- CONTADORES DE CLASE ---
+Total profesores: 1
+Total estudiantes: 2
+
+--- CONSTANTE ---
+Cupo maximo por curso: 30

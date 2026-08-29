@@ -1,0 +1,11 @@
+--- DATOS DE LOS AUTOMOVILES ---
+Automovil: placa=ABC-123, numero de puertas=4, marca=Toyota, modelo=Corolla, Motor: numero=1001, revoluciones por minuto=3000
+Automovil: placa=XYZ-789, numero de puertas=2, marca=Ford, modelo=Mustang, Motor: numero=1002, revoluciones por minuto=3500
+
+--- DATOS DE LOS MOTORES ---
+Motor: numero=1001, revoluciones por minuto=3000
+Motor: numero=1002, revoluciones por minuto=3500
+
+--- DATOS ACTUALIZADOS ---
+Automovil: placa=ABC-123, numero de puertas=4, marca=Honda, modelo=Corolla, Motor: numero=1001, revoluciones por minuto=4000
+Motor: numero=1001, revoluciones por minuto=4000

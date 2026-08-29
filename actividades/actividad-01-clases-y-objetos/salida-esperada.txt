@@ -1,0 +1,40 @@
+=== ENCENDER COCHES ===
+Coche: Ford esta encendido
+Coche: Toyota esta encendido
+
+=== ACELERAR COCHES ===
+Coche: Ford esta acelerando
+Coche: Toyota esta acelerando
+
+=== FRENAR COCHES ===
+Coche: Ford esta frenando
+Coche: Toyota esta frenando
+
+=== APAGAR COCHES ===
+Coche: Ford esta apagado
+Coche: Toyota esta apagado
+
+=== DATOS DE LOS COCHES ===
+Coche deportivo:
+Marca: Ford
+Modelo: Mustang
+Año: 2024
+Precio: 1000.0
+
+Coche todo terreno:
+Marca: Toyota
+Modelo: Hilux
+Año: 2008
+Precio: 2000.0
+
+=== APLICAR DESCUENTO ===
+¿Se aplicó descuento al coche deportivo? false
+¿Se aplicó descuento al coche todo terreno? true
+Precio del coche deportivo: 1000.0
+Precio del coche todo terreno: 1800.0
+
+=== PROBAR SETTERS ===
+Nueva marca: Chevrolet
+Nuevo modelo: Camaro
+Nuevo año: 2005
+Nuevo precio: 3000.0

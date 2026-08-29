@@ -1,0 +1,13 @@
+--- DATOS DE LAS PERSONAS ---
+Persona: id=1, nombre=Carlos, apellido=Perez, Cuenta: numero=1001, saldo=0.0
+Persona: id=2, nombre=Maria, apellido=Lopez, Cuenta: numero=1002, saldo=0.0
+
+--- DATOS ACTUALIZADOS ---
+Persona: id=1, nombre=Carlos, apellido=Perez, Cuenta: numero=1001, saldo=1500.5
+Persona: id=2, nombre=Maria, apellido=Lopez, Cuenta: numero=1002, saldo=2500.75
+
+--- DATOS DE LAS CUENTAS ---
+Cuenta persona 1: 1001
+Saldo persona 1: 1500.5
+Cuenta persona 2: 1002
+Saldo persona 2: 2500.75
